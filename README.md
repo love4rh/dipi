@@ -1,2 +1,3 @@
-# dipi
-Library &amp; Application for Data Processing
+# dptools
+Library &amp; Application for Data Processing &amp; Mining.
+
